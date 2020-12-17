@@ -1,0 +1,39 @@
+*{
+    box-sizing:border-box;
+    padding: 0px;
+    margin: 0px;
+}  
+
+.outer{
+    width:700px;
+    height:800px;
+    
+    margin: 0px auto;
+}  
+  .outer h1{
+      text-align: center;
+  }
+  p{
+      font-size: 20px;
+  }
+  .border{
+      width:100%;
+      padding: 5px;
+      background :rgb(212, 221, 221);
+      border:1px solid black;
+      font-weight:bold;
+  }
+  ul{
+      font-size-adjust: 20px;
+      margin-left: 60px;
+  }
+  h2{
+      float:right;
+
+  }
+  .container{
+      border:3px solid black;
+  }
+  
+      
+     
